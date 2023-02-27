@@ -16,8 +16,6 @@
 
 ## Table of Contents
 
-### Links in markdown
-
 - [102-Reading Notes-1](reading-notes-01.md)
 - [102-Reading Notes-2](reading-notes-02.md)
 
