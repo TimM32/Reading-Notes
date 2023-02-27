@@ -14,9 +14,9 @@
    
     3. Most things in life worth doing takes effort. Sometimes the effort you put in may not produce the results you want right away, but knowing that this effort is not wasted and is helping to build towards the results you want is key in managing realistic gaols and frustrations.
 
-### Table of Contents
+## Table of Contents
 
-#### Links in markdown
+### Links in markdown
 
 [102-Markdown-1](reading-notes-01.md)
 [102-Markdown-2](reading-notes-02.md)
