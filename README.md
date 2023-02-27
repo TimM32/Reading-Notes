@@ -1,5 +1,7 @@
 # Reading-Notes
 
+# Introdution
+  Hey! My name is Tim, welcome to my reading notes section for deltav coding courses! Here you will have access to a wide variety of information for the course 102, 201, 301. and potentialy 401! The link provided will send you to my profile in case you want to connect!
 ## My Growth Mindest
   A growth mindset is the perspective you have in any given situation in life. In this instance we are talking about the way we can use a positive outlook when it comes to learning. Some people might have what is called a fixed mindset. Where they look at challenges, criticism, or success of others as threats or obstacles. This might set gets in the way of learning and finding your passion for it. Taking on challeneges and putting the advice/criticism of others to good use is fundamental in achieving your goals and reaching your full potential.
   
