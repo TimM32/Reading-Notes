@@ -13,5 +13,6 @@
 8. What are the three symbols you can use to create an unordered (bulleted) list with Markdown? You want to use dashes (-), asterisks (* ), or plus signs (+). 
 
 ## Things I want to know more about
-
+What is the advantages of using dashes, asterisks or plus signs when trying to create an unordered list?
+Is there a way within markdown to customize some of the visual settings ie. color, animation etc.? 
 
