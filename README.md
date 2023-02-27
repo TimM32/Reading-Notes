@@ -5,9 +5,12 @@
   
 ### Growth Mindset Reminders
   Here are 3 reminders to help keep the right mindset:
+    
     1. Always have an open mind to ideas, advice, failures, and challenges. This is will help you allow yourself to undetstand where you might need help, what you are doing well, and how you might be able to do things better/more efficiently.
+    
     2. Take any challenge that presents itself one step at a time. If you try to conquer a challenge all at once you may find it insurmountable, but if you break it down into smaller types and slowly work away at it those small victories will build up into overcoming the obstacle in your way.
-    3. Most things in life worth doing takes effort. Sometimes the effort you put in may not produce the results you want right away, but knowing that this effort is not wasted and is helping to build towards the results you want is key in managing realistic gaols and frustrations.
+   
+   3. Most things in life worth doing takes effort. Sometimes the effort you put in may not produce the results you want right away, but knowing that this effort is not wasted and is helping to build towards the results you want is key in managing realistic gaols and frustrations.
 ### Table of Contents
 
 #### Links in markdown
