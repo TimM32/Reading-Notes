@@ -1,4 +1,4 @@
-Reading Notes-Class 1
+#Reading Notes-Class 1
 
 
 
@@ -11,3 +11,7 @@ Reading Notes-Class 1
 6. When making text bold or italicized for emphasis, it is best practice to use which symbol? Using asterisks is a good practice for compatibility since markdown applications don't always aggree with how to handle underscores.
 7. How do you create a link with Markdown? You have to inclose the link texts inside brackets and then follow that up by including the image's URL inside parentheses. 
 8. What are the three symbols you can use to create an unordered (bulleted) list with Markdown? You want to use dashes (-), asterisks (* ), or plus signs (+). 
+
+## Things I want to know more about
+
+
