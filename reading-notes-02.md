@@ -16,7 +16,7 @@
 
 ## True or False/ Short Answer Section
 
-T or F. Text Editor can only write in HTML format.
-T or F. "Text Edit" is the pre-programed app for Mac while "Notepad" is the Microsoft Version.
-T or F. Is Text Editor compatible with third party tools? If true, list 3 third party tools that it is compatible with.
-Explain why the four important features of Text Editor are so important to web design.
+- T or F. Text Editor can only write in HTML format.
+- T or F. "Text Edit" is the pre-programed app for Mac while "Notepad" is the Microsoft Version.
+- T or F. Is Text Editor compatible with third party tools? If true, list 3 third party tools that it is compatible with.
+- Explain why the four important features of Text Editor are so important to web design.
