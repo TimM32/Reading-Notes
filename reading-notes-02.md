@@ -8,11 +8,11 @@
 - mkdir Make Diretory, this creates a directory for you to create and navigate within.
 - touch is used to create blank files. 
 3. Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
-- cd projects  This is having us change from our current directory to "projects" directory. 
-- mkdir new-project  We are creating a new directory labled "new projects".
-- touch new-project/newfile.md  This command allows us to create a filed named "newfile.md" within the directory "new-projects".
-- cd ..  This is changing which directory we are going to, however the ".." indicates that we are going back up the directory hierarchy. 
-- ls projects/new-project  This is is listing all the files and materials within the "new-project" file/directory. 
+- <stonrg>cd projects</strong>  This is having us change from our current directory to "projects" directory. 
+- <stonrg>mkdir new-project</strong>  We are creating a new directory labled "new projects".
+- <stonrg>touch new-project/newfile.md</strong>  This command allows us to create a filed named "newfile.md" within the directory "new-projects".
+- <stonrg>cd ..</strong>  This is changing which directory we are going to, however the ".." indicates that we are going back up the directory hierarchy. 
+- <stonrg>ls projects/new-project</strong>  This is is listing all the files and materials within the "new-project" file/directory. 
 
 ## True or False/ Short Answer Section
 
