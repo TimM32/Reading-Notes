@@ -1,6 +1,7 @@
 # Reading-Notes
 
-## Second Header
+## My Growth Mindest
+  dskfsjdklfsjflsdkfsd
 
 ### Table of Contents
 
