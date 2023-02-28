@@ -4,7 +4,10 @@ Git is a univerisal tool used for backing up, cloning, changing, and sharing cod
 
 1. What is Version Control? This is a system that lets you go back and revisit differnt verions of a file/project you are working on. It does this by recording the changes made to the file aka snapshotting. With this you can revert the file/project to a previous version, track the modifications that are made and compare these changes. 
 2. What is cloning in Git? Cloning is when you take an already exisiting Git repository (a file or project you are working on) from one server and make a copy of it but using the command git clone (insert link to repository). When cloning a file you have copied all the versions of all the files for that project. 
-3. What is the command to track and stage files? To track/stage on file you use command git add filename, to track/stage all files use command git add *
-4. What is the command to take a snapshot of your changed files?
-5. What is the command to send your changed files to Github?
+3. What is the command to track and stage files? To track/stage on file you use command: git add filename, to track/stage all files use command: git add *
+4. What is the command to take a snapshot of your changed files? to take a snapshot of your changes for one file you use command: git commit -m "what change you made a,b,c"....for all files you use command: git commit -a
+5. What is the command to send your changed files to Github? To push your changes to github use the command: git push origin master
+
+
+
 
