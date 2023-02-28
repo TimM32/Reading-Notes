@@ -9,5 +9,9 @@ Git is a univerisal tool used for backing up, cloning, changing, and sharing cod
 5. What is the command to send your changed files to Github? To push your changes to github use the command: git push origin master
 
 
+## Additional Information/ Know More About
+
+After cloning my githun into VS code how do I make cahnges to it within VS code?
+I might have missed the step where you get ehe webpage and adjust certain aspects with it in html, so will need to get some advice and clarity on that.
 
 
