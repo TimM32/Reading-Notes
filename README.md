@@ -20,5 +20,6 @@
 - [102-Reading Notes-2](reading-notes-02.md)
 - [102-Reading Notes-3](reading-notes-03.md)
 - [102-Reading Notes-4](reading-notes-04.md)
+- [102-Reading Notes-5](reading-notes-05.md)
 
 ![This is an image](https://external-preview.redd.it/fue2a8dUlz0f7pogTkBcWkrLhExwzgRo41_IBrwbBQY.jpg?auto=webp&s=44b8acc3cba1ac5ff73372aeffd79c6bc71bcc4a)
