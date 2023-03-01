@@ -16,6 +16,8 @@
 
 ## Table of Contents
 
+Course 102:
+
 - [102-Reading Notes-1](reading-notes-01.md)
 - [102-Reading Notes-2](reading-notes-02.md)
 - [102-Reading Notes-3](reading-notes-03.md)
@@ -24,6 +26,18 @@
 - [102-Reading Notes-6](reading-notes-06.md)
 - [102-Reading Notes-7](reading-notes-07.md)
 - [102-Reading Notes-8](reading-notes-08.md)
+
+Course 201
+
+- [201-Reading Notes-1](reading-notes-01.md)
+- [201-Reading Notes-2](reading-notes-02.md)
+- [201-Reading Notes-3](reading-notes-03.md)
+- [201-Reading Notes-4](reading-notes-04.md)
+- [201-Reading Notes-5](reading-notes-05.md)
+- [201-Reading Notes-6](reading-notes-06.md)
+- [201-Reading Notes-7](reading-notes-07.md)
+- [201-Reading Notes-8](reading-notes-08.md)
+
 
 
 ![This is an image](https://external-preview.redd.it/fue2a8dUlz0f7pogTkBcWkrLhExwzgRo41_IBrwbBQY.jpg?auto=webp&s=44b8acc3cba1ac5ff73372aeffd79c6bc71bcc4a)
