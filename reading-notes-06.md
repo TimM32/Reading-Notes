@@ -5,6 +5,16 @@
 3. What is an “assignment” operator, and what does it do? With in JavaScript an assignment refers to the value of its right-hand operand to a variable, a property, or an indexer element given by its left-hand operand. The result of an assignment expression is the value assigned to the left-hand operand. In JavaScript = is the assoignment. 
 4. What is information received from the user called? This is called the prompt within JavaScript
 
+## Additional Information 
+
+The general rules for constructing names for variables (unique identifiers) are:
+
+- Names can contain letters, digits, underscores, and dollar signs.
+- Names must begin with a letter.
+- Names can also begin with $ and _ (but we will not use it in this tutorial).
+- Names are case sensitive (y and Y are different variables).
+- Reserved words (like JavaScript keywords) cannot be used as names.
+
 
 
 
