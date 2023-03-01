@@ -11,7 +11,7 @@
 < body>
 
 
-< p style="color:red;">This is a paragraph.</p>
+< p style="color:red;">This is a paragraph.< /p>
 
 < /body>
 < /html>
