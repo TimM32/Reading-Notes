@@ -16,7 +16,7 @@
 
 ## Table of Contents
 
-Course 102:
+### Course 102:
 
 - [102-Reading Notes-1](reading-notes-01.md)
 - [102-Reading Notes-2](reading-notes-02.md)
@@ -27,7 +27,7 @@ Course 102:
 - [102-Reading Notes-7](reading-notes-07.md)
 - [102-Reading Notes-8](reading-notes-08.md)
 
-Course 201
+### Course 201:
 
 - [201-Reading Notes-1](reading-notes-01.md)
 - [201-Reading Notes-2](reading-notes-02.md)
