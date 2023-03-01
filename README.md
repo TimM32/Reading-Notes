@@ -37,6 +37,13 @@ Course 201
 - [201-Reading Notes-6](reading-notes-06.md)
 - [201-Reading Notes-7](reading-notes-07.md)
 - [201-Reading Notes-8](reading-notes-08.md)
+- [201-Reading Notes-9](reading-notes-09.md)
+- [201-Reading Notes-10](reading-notes-10.md)
+- [201-Reading Notes-11](reading-notes-11.md)
+- [201-Reading Notes-12](reading-notes-12.md)
+- [201-Reading Notes-13](reading-notes-13.md)
+- [201-Reading Notes-14](reading-notes-14.md)
+- [201-Reading Notes-15](reading-notes-15.md)
 
 
 
