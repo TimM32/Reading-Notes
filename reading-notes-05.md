@@ -7,6 +7,15 @@
   - Inline CSS.  An inline style may be used to apply a unique style for a single element. nline styles are defined within the "style" attribute of the relevant element.
 3. Write an example of a CSS rule that would give all < p> elements red text.
 
+< html>
+< body>
+
+
+< p style="color:red;">This is a paragraph.</p>
+
+< /body>
+< /html>
+(This would give a paragraph redt ext, I added in spaces in order for it to be seen by you!)_
 
 
 
