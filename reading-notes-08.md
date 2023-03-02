@@ -6,3 +6,6 @@ The expression x = 7 is an example of the first type. This expression uses the =
 2. Why would we use a loop in our code? Loops offer a quick and easy way to do something repeatedly. You can think of a loop as a computerized version of the game where you tell someone to take X steps in one direction, then Y steps in another.
 3. When does a for loop stop executing? A loop stops executing either when it has reached its predetermined number of times to run a loop or by using a break statement 
 4. How many times will a while loop execute? However many times you decide to program that loop to execute! 
+
+
+## Additional Information/ Questions
