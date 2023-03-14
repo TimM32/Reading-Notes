@@ -7,3 +7,6 @@
 5. What is the most important question to answer when designing a Website? When you are looking to design your a website you have to think about what informtation or purpose is that this website going to servcies. You also have to think about how it will look to the the user, will the user be able to navigae your webpage easily. 
 
 ## Additional Information
+
+I am very curious to see how far javascript is going to take me,I ahve read that javascript has become extremely popular recently since it can be cross interfaced with other platforms. I also want to know how Java and Javascript are different, how do they work together and why do some people think one is better or easier than other. 
+Moving Forward will be no longer being using much HTML? How much CSS and JS will we be using outside of HTML?
