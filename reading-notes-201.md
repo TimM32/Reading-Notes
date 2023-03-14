@@ -5,3 +5,5 @@
 3. What is a Variable and why are they important in JavaScript? Variables are containers that store values. You start by declaring a variable with the let keyword, followed by the name you give to the variable. These are important because they are the information that is going to be processed by the code/js. WIthout the variables there will not be much you are going to add to your project. 
 4. What is the first step to designing a Website? The first step to designing a website is creating an index.html file and then from there getting a boilerplate so that you have the framework. 
 5. What is the most important question to answer when designing a Website? When you are looking to design your a website you have to think about what informtation or purpose is that this website going to servcies. You also have to think about how it will look to the the user, will the user be able to navigae your webpage easily. 
+
+## Additional Information
