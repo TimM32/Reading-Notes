@@ -21,5 +21,6 @@
   - // evaluate this
   - (a + c) + b;
   The code is tring to read that 10 + false + dog, the issue it that this whole cod will either fail or not work at all beause that value of C = false and there is no set equal to this eqaution. It is just adding 3 values but given no output for them.
-8. Describe a real world example of when a conditional statement should be used in a JavaScript program.
-9. Give an example of when a Loop is useful in JavaScript.
+8. Describe a real world example of when a conditional statement should be used in a JavaScript program. You should use this type of statement when you are wanting someong to put in previously know information, username and passwords. That way fi the correct condition is met they will gain access, if they dont then no access is gained. 
+    
+9.Give an example of when a Loop is useful in JavaScript. Same example as above except you get a finite amount of tries to enter in the correct information or you will be restricted from gaining the access you seek.
