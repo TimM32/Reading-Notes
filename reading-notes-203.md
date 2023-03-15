@@ -11,15 +11,15 @@
     - Border box: The border box wraps the content and any padding; size it using border and related properties.
     - Margin box: The margin is the outermost layer, wrapping the content, padding, and border as whitespace between this box and other elements; size it using margin         and related properties.
 
-6. What data types can you store inside of an Array?
-7. Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?
+6. What data types can you store inside of an Array? They can store all types of data; string, numbers, lists, etc.
 
-8. Read the code below and evaluate the last expression and explain what the result would be and why.
+7. Read the code below and evaluate the last expression and explain what the result would be and why.
   - let a = 10;
   - let b = 'dog';
   - let c = false;
 
   - // evaluate this
   - (a + c) + b;
-9. Describe a real world example of when a conditional statement should be used in a JavaScript program.
-10. Give an example of when a Loop is useful in JavaScript.
+  The code is tring to read that 10 + false + dog, the issue it that this whole cod will either fail or not work at all beause that value of C = false and there is no set equal to this eqaution. It is just adding 3 values but given no output for them.
+8. Describe a real world example of when a conditional statement should be used in a JavaScript program.
+9. Give an example of when a Loop is useful in JavaScript.
