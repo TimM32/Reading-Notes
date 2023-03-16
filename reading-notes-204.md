@@ -16,9 +16,14 @@ Minimize instances where multiple copies of the same text are linked to differen
 - What are a few differences between block-level and inline elements? block level or flex level is a one-dimensional layout method for laying out items in rows or columns. Items flex to fill additional space and shrink to fit into smaller spaces
 
 - Name a few advantages to using absolute positioning on an element. Well since it sits on its won document you can style it sperately from all the other aspects fo the page. Everything that is connected to that absolue postion will be affect only when you change that specific document.
-- What is a key difference between fixed positioning and absolute positioning?
+- What is a key difference between fixed positioning and absolute positioning? Absolutely positioned elements are positioned with respect to a containing block, which is the nearest postioned ancestor. If there is no positioned ancestor, the viewport will be the containing block. Elements with fixed positioning are fixed with respect to the viewport—the viewport is always their containing block.
 
-- Describe the difference between a function declaration and a function invocation.
+- Describe the difference between a function declaration and a function invocation. The main difference between a function expression and a function declaration is the function name, which can be omitted in function expressions to create anonymous functions.
 - What is the difference between a parameter and an argument?
   Parameters allows us to give things in our code human readable vaules that we can use throughout the code. Argurments are the values that the we use parameters to make more readable/understandable. Arguments get passed through the functions and parameters give names to that. So to summarize Argmuents = values and parameters = placeholders.
+
+
+
+## Additional Information
+
 
