@@ -22,3 +22,8 @@
  
  
  This code is showing the name, age and color ofa  dog in an Ul. The function is meant to show that the Spot is 14 years old in human years. It is taking the dog's age which is 2 and multiplying it by 7 ( 1 dog year is = to 7 human years). 
+
+
+- What is the DOM? he Document Object Model (DOM) is a programming interface for web documents. It represents the page so that programs can change the document structure, style, and content. The DOM represents the document as nodes and objects; that way, programming languages can interact with the page.
+
+## Additional Information
