@@ -15,4 +15,10 @@
     console.log(`${this.name} is ${this.age*7} in human years`);
   }
  }
+ 
+ 
+ 
+ 
+ 
+ 
  This code is showing the name, age and color ofa  dog in an Ul. The function is meant to show that the Spot is 14 years old in human years. It is taking the dog's age which is 2 and multiplying it by 7 ( 1 dog year is = to 7 human years). 
