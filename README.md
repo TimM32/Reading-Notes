@@ -47,7 +47,21 @@
 
 ### Course 301:
 
-
+- [301-Reading Notes-1](reading-notes-301.md)
+- [301-Reading Notes-2](reading-notes-302.md)
+- [301-Reading Notes-3](reading-notes-303.md)
+- [301-Reading Notes-4](reading-notes-304.md)
+- [301-Reading Notes-5](reading-notes-305.md)
+- [301-Reading Notes-6](reading-notes-306.md)
+- [301-Reading Notes-7](reading-notes-307.md)
+- [301-Reading Notes-8](reading-notes-308.md)
+- [301-Reading Notes-9](reading-notes-309.md)
+- [301-Reading Notes-10](reading-notes-310.md)
+- [301-Reading Notes-11](reading-notes-311.md)
+- [301-Reading Notes-12](reading-notes-312.md)
+- [301-Reading Notes-13](reading-notes-313.md)
+- [301-Reading Notes-14](reading-notes-314.md)
+- [301-Reading Notes-15](reading-notes-315.md)
 
 
 ![This is an image](https://external-preview.redd.it/fue2a8dUlz0f7pogTkBcWkrLhExwzgRo41_IBrwbBQY.jpg?auto=webp&s=44b8acc3cba1ac5ff73372aeffd79c6bc71bcc4a)
