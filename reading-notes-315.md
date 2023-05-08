@@ -4,12 +4,12 @@
 - What is OAuth? OAuth doesn't share password data but instead uses authorization tokens to prove an identity between consumers and service providers. OAuth is an authentication protocol that allows you to approve one application interacting with another on your behalf without giving away your password.
 - Give an example of what using OAuth would look like. It would be somthing like asking for you username and password in order to get into your email or look at your account for internet, being able to pay bills, change what tpye of plan you have etc. 
 - How does OAuth work? What are the steps that it takes to authenticate the user? OAuth 2.0, which stands for “Open Authorization”, is a standard designed to allow a website or application to access resources hosted by other web apps on behalf of a user.
-Step 1 – The User Shows Intent.
-Step 2 – The Consumer Gets Permission.
-Step 3 – The User Is Redirected to the Service Provider.
-Step 4 – The User Gives Permission.
-Step 5 – The Consumer Obtains an Access Token.
-Step 6 – The Consumer Accesses the Protected Resource.
+    - Step 1 – The User Shows Intent.
+    - Step 2 – The Consumer Gets Permission.
+    - Step 3 – The User Is Redirected to the Service Provider.
+    - Step 4 – The User Gives Permission.
+    - Step 5 – The Consumer Obtains an Access Token.
+    - Step 6 – The Consumer Accesses the Protected Resource.
 
 - What is OpenID? OpenID allows you to use an existing account to sign in to multiple websites, without needing to create new passwords. You may choose to associate information with your OpenID that can be shared with the websites you visit, such as a name or email address.
 
