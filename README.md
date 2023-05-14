@@ -63,5 +63,24 @@
 - [301-Reading Notes-14](reading-notes-314.md)
 - [301-Reading Notes-15](reading-notes-315.md)
 
+### Course 401:
+
+- [400-PrepWork-Notes](reading-notes-400.md)
+- [401-Reading Notes-1](reading-notes-401.md)
+- [401-Reading Notes-2](reading-notes-402.md)
+- [401-Reading Notes-3](reading-notes-403.md)
+- [401-Reading Notes-4](reading-notes-404.md)
+- [401-Reading Notes-5](reading-notes-405.md)
+- [401-Reading Notes-6](reading-notes-406.md)
+- [401-Reading Notes-7](reading-notes-407.md)
+- [401-Reading Notes-8](reading-notes-408.md)
+- [401-Reading Notes-9](reading-notes-409.md)
+- [401-Reading Notes-10](reading-notes-410.md)
+- [401-Reading Notes-11](reading-notes-411.md)
+- [401-Reading Notes-12](reading-notes-412.md)
+- [401-Reading Notes-13](reading-notes-413.md)
+- [401-Reading Notes-14](reading-notes-414.md)
+- [401-Reading Notes-15](reading-notes-415.md)
+
 
 ![This is an image](https://external-preview.redd.it/fue2a8dUlz0f7pogTkBcWkrLhExwzgRo41_IBrwbBQY.jpg?auto=webp&s=44b8acc3cba1ac5ff73372aeffd79c6bc71bcc4a)
