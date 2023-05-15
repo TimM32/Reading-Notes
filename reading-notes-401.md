@@ -11,3 +11,5 @@
 - What are your learning goals after reading and reviewing the class README? Becoming even more comfortable with the backend but for me getting more time and work with frontend aspects. I gravitated a lot to the backend in previous courses so I want to take this opportunity to get more experience with the frontend. I also would like to become a more well rounded and better devloper.
 
 ### Additional Information
+Node is powered by the v8 engine.
+v8 Engine - V8 is the name of the JavaScript engine that powers Google Chrome. It's the thing that takes our JavaScript and executes it while browsing with Chrome. V8 provides the runtime environment in which JavaScript executes.
