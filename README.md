@@ -84,6 +84,11 @@
 - [401-Reading Notes-16](reading-notes-416.md)
 - [401-Reading Notes-17](reading-notes-417.md)
 - [401-Reading Notes-18](reading-notes-418.md)
+- [401-Reading Notes-19](reading-notes-419.md)
+- [401-Reading Notes-20](reading-notes-420.md)
+- [401-Reading Notes-21](reading-notes-421.md)
+- [401-Reading Notes-22](reading-notes-422.md)
+- [401-Reading Notes-23](reading-notes-423.md)
 
 
 ![This is an image](https://external-preview.redd.it/fue2a8dUlz0f7pogTkBcWkrLhExwzgRo41_IBrwbBQY.jpg?auto=webp&s=44b8acc3cba1ac5ff73372aeffd79c6bc71bcc4a)
