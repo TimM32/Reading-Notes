@@ -89,6 +89,12 @@
 - [401-Reading Notes-21](reading-notes-421.md)
 - [401-Reading Notes-22](reading-notes-422.md)
 - [401-Reading Notes-23](reading-notes-423.md)
+- [401-Reading Notes-24](reading-notes-424.md)
+- [401-Reading Notes-25](reading-notes-425.md)
+- [401-Reading Notes-26](reading-notes-426.md)
+- [401-Reading Notes-27](reading-notes-427.md)
+- [401-Reading Notes-28](reading-notes-428.md)
+
 
 
 ![This is an image](https://external-preview.redd.it/fue2a8dUlz0f7pogTkBcWkrLhExwzgRo41_IBrwbBQY.jpg?auto=webp&s=44b8acc3cba1ac5ff73372aeffd79c6bc71bcc4a)
