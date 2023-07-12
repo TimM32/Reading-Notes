@@ -1,4 +1,4 @@
-# Reading Notesw Class 40
+# Reading Notes Class 40
 
 - Teach us two things about Next.js.
     -  Next.js is a React framework that gives you building blocks to create web applications. Next.js handles the tooling and configuration needed for React, and provides additional structure, features, and optimizations for your application. 
