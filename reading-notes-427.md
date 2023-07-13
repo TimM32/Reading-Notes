@@ -1,5 +1,5 @@
 # Reading Notes Class 41
 
-## Open Source
+## Open-Source Community
 
 As a rugby coach part of my role is not only teaching player the game of rugby butis also being there to welcome new people to the game and showing them why it is one of the most popular sports in the world. It is my job to create an environment that people feel comfortable enough to express themselves on the field and want to stick around afterwards at the clubhouse. This relates to open-source community because I can have a similar role. I can be someone that helps to mentor people who are new to the software development world and share my experiences (even thought at the moment they may be limited) to help ease some of the stress or presssure that comes from entering a new world. Even though I am still carving out my own path and somewhat learning to swim in deeper waters, there are also people with less experience then myself that I can help out and be a source of information for. Just as I have and will continue to lean on people in this industry that have more experience than myself. 
