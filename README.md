@@ -94,6 +94,8 @@
 - [401-Reading Notes-26](reading-notes-426.md)
 - [401-Reading Notes-27](reading-notes-427.md)
 - [401-Reading Notes-28](reading-notes-428.md)
+- [401-Reading Notes-29](reading-notes-429.md)
+- [401-Reading Notes-30](reading-notes-430.md)
 
 
 
